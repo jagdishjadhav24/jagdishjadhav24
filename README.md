@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Jagdish jadhav</h1>
 <h3 align="center">An aspiring Software Developer, a Verified Discord Bot Developer and an avid Website Developer. I'm super passionate about learning and exploring the endless world of technology. And I am currently experimenting in the C/C++ and Python eco-system.</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sachinl0har-ops-cyber" alt="jagdishjadhav24-ops-cyber" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jagdishjadhav24-ops-cyber" alt="jagdishjadhav24-ops-cyber" /> </p>
 
 <h3 align="center">Stats:</h3>
 
